@@ -1,0 +1,19 @@
+{
+    "products": [ 
+        {
+            "productName": "MacBook Pro"
+        },
+        {
+            "productName": "Dell XPS 13"
+        },
+        {
+            "productName": "Lenovo ThinkPad"
+        },
+        {
+            "productName": "HP Spectre x360"
+        },
+        {
+            "productName": "Asus ZenBook"
+        }
+    ]
+}
