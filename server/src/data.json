@@ -15,5 +15,16 @@
         {
             "productName": "Asus ZenBook"
         }
+    ],
+    "laptop": [ 
+        {
+            "productName": "MacBook"
+        },
+        {
+            "productName": "Dell"
+        },
+        {
+            "productName": "Lenovo"
+        }
     ]
 }
