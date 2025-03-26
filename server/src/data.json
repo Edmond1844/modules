@@ -1,30 +1,27 @@
 {
     "products": [ 
         {
-            "productName": "MacBook Pro"
+            "productName": "computers"
         },
         {
-            "productName": "Dell XPS 13"
+            "productName": "TV"
         },
         {
-            "productName": "Lenovo ThinkPad"
-        },
-        {
-            "productName": "HP Spectre x360"
-        },
-        {
-            "productName": "Asus ZenBook"
+            "productName": "phones"
         }
     ],
-    "laptop": [ 
+    "brands": [ 
         {
-            "productName": "MacBook"
+            "brandsName": "MacBook"
         },
         {
-            "productName": "Dell"
+            "brandsName": "Dell"
         },
         {
-            "productName": "Lenovo"
+            "brandsName": "Lenovo"
+        },
+        {
+            "brandsName": "HP"
         }
     ]
 }
